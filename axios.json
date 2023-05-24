@@ -1,6 +1,6 @@
 [
    {
-       "number":"Əli",
+       "number":"User",
        "time":"12:43",
        "img":"icons/pp1.jpg"
    },
@@ -20,7 +20,7 @@
     "img":"icons/pp4.jpg"
 },
 {
-    "number":"Elxan",
+    "number":"User 3",
     "time":"15:50",
     "img":"icons/nopp.png"
 },
@@ -35,7 +35,7 @@
     "img":"icons/pp7.jpg"
 },
 {
-    "number":"Orxan",
+    "number":"User 5",
     "time":"Dünən",
     "img":"icons/pp8.jpg"
 },
@@ -65,7 +65,7 @@
     "img":"icons/pp5.jpg"
 },
 {
-    "number":"Elməddin",
+    "number":"User 9",
     "time":"20:19",
     "img":"icons/pp3.jpg"
 },
