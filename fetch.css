@@ -495,8 +495,8 @@ padding-top:10px;
 }
 .img1:hover{
    position:absolute;
-    left:50;
-    top:50;
+    left:50%;
+    top:50%;
     transform:translate(-50%,-50%);
     border-radius: 0%;
     width:100px;
